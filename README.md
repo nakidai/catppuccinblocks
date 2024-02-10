@@ -4,7 +4,7 @@ This is 1.12.2 resource pack based on the [catppuccin frappe](https://github.com
 How to get
 --
 Check latest release and download `catppuccinblocks.zip`, then place it in `resourcepacks` folder in your `.minecraft`.
-Also I recommend you use it with catppuccin frappe [GUI](https://github.com/catppuccin/minecraft) resource pack.  
+Also I recommend you use it with catppuccin frappe [HUD](https://github.com/catppuccin/minecraft) resource pack.  
 
 Changed
 --
