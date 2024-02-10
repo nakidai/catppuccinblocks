@@ -4,6 +4,7 @@ This is 1.12.2 resource pack based on the [catppuccin frappe](https://github.com
 How to get
 --
 Check releases and download newest.  
+Also I recommend you use it with catppuccin frape [gui](https://github.com/catppuccin/minecraft) resource pack.  
 
 Changed
 --
